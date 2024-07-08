@@ -4,7 +4,7 @@ import {Button} from './ui/MovingBorders';
 
 const Experience = () => {
     return (
-        <section className='py-20' id='#services'>
+        <section className='py-20' id='services'>
             <h1 className='heading'>
                 My 
                 <span className='text-blue-500'> Services Experience</span>
