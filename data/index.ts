@@ -231,7 +231,7 @@ export const navItems = [
       des: "Interaction with shopping cart for clothing store",
       img: "/p16.png",
       iconLists: ["js.svg", "/re.svg", "/tail.svg", ],
-      link: "https://italianrestaurant-web.netlify.app/",
+      link: "https://shopcardweb.netlify.app/",
     },
     {
       id: 17,
@@ -255,7 +255,7 @@ export const navItems = [
       des: "Styling with Tailwind and using the Framer-motion library this landing page has an interactive design",
       img: "/p19.png",
       iconLists: ["js.svg", "/re.svg", "/tail.svg",],
-      link: "https://challengefrontend-smartfit.netlify.app/",
+      link: "https://satellite-website-info.netlify.app/",
     },
     {
       id: 20,
@@ -336,13 +336,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/PauloAquarius0299",
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/paulocesargomess/",
     },
   ];
