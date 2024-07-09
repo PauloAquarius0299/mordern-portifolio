@@ -1,3 +1,12 @@
+# PauloTech 
+![Captura de Tela (274)](https://github.com/PauloAquarius0299/mordern-portifolio/assets/114706743/311d79b3-0181-4ffc-a26a-fe5de6b7dfd1)
+### Ferramentas 
+* ReacJs
+* NextJs
+* TypeScript
+* TailwindCss
+* aceternity-ui
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
