@@ -3,6 +3,7 @@ import Hero from '../components/Hero';
 import {FloatingNav} from '@/components/ui/FloatingNav';
 import {FaHome} from 'react-icons/fa';
 import GridSection from '@/components/GridSection';
+import AboutMe from '@/components/AboutMe';
 import RecentProjects from "@/components/RecentProjects";
 import { navItems } from '@/data';
 import Clients from '@/components/Clients'
@@ -15,6 +16,7 @@ export default function Home() {
     <div className='max-w-7xl w-full'>
      <FloatingNav navItems={navItems} />
       <Hero />
+      <AboutMe />
       <GridSection />
       <RecentProjects />
       <Clients />

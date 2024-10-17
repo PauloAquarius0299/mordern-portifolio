@@ -4,6 +4,10 @@ export const navItems = [
     { name: "Services", link: "#services" },
     { name: "Contact", link: "#contact" },
   ];
+
+  export const aboutMe = [
+    { image: '/about.png' }
+  ];
   
   export const gridItems = [
     {
