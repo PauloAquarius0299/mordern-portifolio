@@ -309,30 +309,44 @@ export const navItems = [
     {
       id: 1,
       title: "Frontend Web Development",
-      desc: "I assisted in the development of interfaces on web platforms using React.js, Next.js, Angular.js and NodeJs, enhancing interactivity.",
+      desc: "Developed interfaces on web platforms using React.js, Next.js, Angular.js and NodeJs, enhancing interactivity.",
       className: "md:col-span-2 p-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
+      title: "Backend Web Development",
+      desc: "Proficiency in creating RESTful APIs with Java Spring, integrating databases, and designing both microservices and monolithic architectures.",
+      className: "md:col-span-2 p-2",
+      thumbnail: "/exp6.png",
+    },
+    {
+      id: 3,
       title: "Lading Page Design - JS/CSS",
       desc: "Single page such as Portfolios and Personal Blogs with unique design, layout for desktop and mobile.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
-      id: 3,
-      title: "Automation Services with Python",
+      id: 4,
+      title: "Automation Services",
       desc: "With Python code practices, reduce repetitive human services and tasks with just one click.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
-      id: 4,
-      title: "Design UI",
-      desc: "Working with interfaces and interactivity gave me solid skills to develop unique designs with Figma or Canvas.",
+      id: 5,
+      title: "Cloud Service",
+      desc: "Knowledge of cloud hosting services using AWS, including S3, EC2, RDS, Lambda, and Terraform.",
       className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "/exp8.png",
+    },
+    {
+      id: 6,
+      title: "Mobile App Development",
+      desc: "Experience in developing mobile application interfaces with Kotlin Multiplatform and React Native.",
+      className: "md:col-span-2",
+      thumbnail: "/exp9.jpg",
     },
   ];
   

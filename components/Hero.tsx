@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Paulo, a Next.js, React and Angular Developer based in Brazil.
+            Hi! I&apos;m Paulo, a FullStack, TypeScript and Java Developer based in Brazil.
           </p>
 
           <a href="#about">
