@@ -283,7 +283,7 @@ export const navItems = [
       des: "The fullstack project developed with React, Expressjs and MongoDB aims to create a platform for user registration and publication of their residences for rent during the travel season.",
       img: "/p12.png",
       iconLists: ["/re.svg", "/js.svg", "/node.svg", "/sass.svg", "/db.svg"],
-      link: "https://aluguel-carro-react.netlify.app/",
+      link: "https://github.com/PauloAquarius0299/viagereserve-app",
     },
     {
       id: 23,
